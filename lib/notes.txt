@@ -1,0 +1,11 @@
+models have the class desription nothing else
+like cryptocurrency model is the class of the cryptocurrency
+
+HOME
+1. fetch data from api
+2. give that data to provider
+3. using provider show in homepage
+
+THEME
+1. theme define karo mtlab dono theme light and dark
+2. 
